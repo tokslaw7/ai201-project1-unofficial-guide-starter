@@ -44,9 +44,11 @@
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunk size:** tokens
 
 **Overlap:**
+
+**Reasoning:** Because it is one focused domain ** Recursive strategy
 
 **Why these choices fit your documents:**
 
@@ -62,7 +64,7 @@
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** accuracy on domain-specific text
 
 **Production tradeoff reflection:**
 

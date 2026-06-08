@@ -43,11 +43,11 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** tokens
 
 **Overlap:**
 
-**Reasoning:**
+**Reasoning:** Because it is one focused domain ** Recursive strategy
 
 ---
 
@@ -59,11 +59,11 @@
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:**  accuracy on domain-specific text **ChromaDB
 
-**Top-k:**
+**Top-k:** 5
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** 
 
 ---
 

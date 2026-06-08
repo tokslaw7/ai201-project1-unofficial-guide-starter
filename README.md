@@ -9,10 +9,8 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+- Data Structures and Algorithms. Rate Data Structure and Algorthms to passing coding interviews for Software Engineering graduates
+- There is no specific comprehensive guide to focus on applicable Data structures and algorithms to pass coding interviews.
 
 ---
 
@@ -22,18 +20,18 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Description | URL or location |
+|---|--------|-------------|-----------------|
+| 1 |LeetCode — Top Interview Questions |curated list of high-frequency interview problems | https://leetcode.com/problemset/top-interview-questions/ |
+| 2 |Introduction to Algorithms (CLRS) — MIT Press book page |canonical, deep textbook for theory and proofs (use selectively for interviews) | https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/|
+| 3 | Princeton Algorithms, 4th Ed. (Sedgewick & Wayne) — algs4 site| clear implementations, visualizations, and exercises | https://algs4.cs.princeton.edu/|
+| 4 | HackerRank — Interview Preparation Kit| structured practice tracks with company-style problems| https://www.hackerrank.com/interview/interview-preparation-kit |
+| 5 | GeeksforGeeks — Top 50 Dynamic Programming Problems | targeted practice for a common interview weak spot | https://www.geeksforgeeks.org/top-50-dynamic-programming-problems/ |
+| 6 | GeeksforGeeks — Data Structures overview | extensive discrete-topic articles | https://www.geeksforgeeks.org/data-structures/|
+| 7 | TopCoder — Competitive Programming Tutorials | algorithm techniques and practice useful for hard interview problems | https://www.topcoder.com/community/competitive-programming/tutorials/|
+| 8 | Stack Overflow thread - Best way to prepare for technical interviews | community strategies and real-world tips; good for meta-prep| https://stackoverflow.com/questions/12451835/best-way-to-prepare-for-technical-interviews |
+| 9 | Cracking the Coding Interview | interview-focused book with curated questions and behavioral advice| https://www.crackingthecodinginterview.com/ |
+| 10 | Elements of Programming Interviews (EPI) |problem sets and solutions styled for interview difficulty | https://elementsofprogramminginterviews.com/|
 
 ---
 
